@@ -33,9 +33,9 @@ Software Engineering student currently pursuing a degree at UTFPR, with a prior 
 
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-1a1b27?style=for-the-badge&logo=javascript&logoColor=f7dc6f" />
-  <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=7aa2f7" />
+  <!-- <img src="https://img.shields.io/badge/TypeScript-1a1b27?style=for-the-badge&logo=typescript&logoColor=7aa2f7" />
   <img src="https://img.shields.io/badge/Java-1a1b27?style=for-the-badge&logo=openjdk&logoColor=e0af68" />
-  <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7dcfff" />
+  <img src="https://img.shields.io/badge/Python-1a1b27?style=for-the-badge&logo=python&logoColor=7dcfff" /> -->
   <img src="https://img.shields.io/badge/HTML5-1a1b27?style=for-the-badge&logo=html5&logoColor=f7768e" />
   <img src="https://img.shields.io/badge/CSS3-1a1b27?style=for-the-badge&logo=css3&logoColor=7aa2f7" />
 </p>
@@ -49,15 +49,15 @@ Software Engineering student currently pursuing a degree at UTFPR, with a prior 
   <img src="https://img.shields.io/badge/GitHub-1a1b27?style=for-the-badge&logo=github&logoColor=c0caf5" />
 </p>
 
-> *Update this list to reflect your actual proficiency as your skills evolve.*
+ <!-- > *Update this list to reflect your actual proficiency as your skills evolve.* -->
 
 <br>
 
 ## GitHub Statistics
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=augustofe-dev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustofe-dev&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-nine-mu-39.vercel.app/api?username=augustofe-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-nine-mu-39.vercel.app/api/top-langs/?username=augustofe-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="left">
@@ -65,14 +65,13 @@ Software Engineering student currently pursuing a degree at UTFPR, with a prior 
 </p>
 
 <br>
+ <!-- ## Featured Project
 
-## Featured Project
-
-| Project | Description | Stack |
+<!-- | Project | Description | Stack |
 |---|---|---|
 | [Project Name](https://github.com/augustofe-dev/project-name) | *One-line description of what the project does* | *Tech stack used* |
 
-> *Replace this row once you publish your first repository — add one row per project you want to highlight.*
+> *Replace this row once you publish your first repository — add one row per project you want to highlight.* -->
 
 <br>
 
