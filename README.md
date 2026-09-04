@@ -53,7 +53,7 @@ Software Engineering student currently pursuing a degree at UTFPR, with a prior 
 
 <br>
 
-## GitHub Statistics
+<!-- ## GitHub Statistics
 
 <p align="left">
   <img height="165" src="https://github-readme-stats-nine-mu-39.vercel.app/api?username=augustofe-dev&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -64,7 +64,7 @@ Software Engineering student currently pursuing a degree at UTFPR, with a prior 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=augustofe-dev&theme=tokyonight&hide_border=true" />
 </p>
 
-<br>
+<br> -->
  <!-- ## Featured Project
 
 <!-- | Project | Description | Stack |
